@@ -12,6 +12,7 @@ import java.util.TreeMap;
 public class SoapService {
     private TreeMap<String,Double> soaps;
 
+
     public SoapService(){
         soaps = new TreeMap<>();
         soaps.put("Dial", 2.97);
