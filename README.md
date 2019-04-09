@@ -8,4 +8,4 @@ The service deals with soap prices and has a handful of methods for you to provi
 - getCheapest
 - getCostliest
 
-Credits for the design of this homework goes to Dean Gankop: https://www.linkedin.com/in/ganskop/
+Credit for the design of this homework goes to Dean Gankop: https://www.linkedin.com/in/ganskop/
