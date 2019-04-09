@@ -3,7 +3,6 @@
 In this project I had to create a SOAP-based Web Service. It was for a class called Server Design and Development at RIT.
 The service deals with soap prices and has a handful of methods.
 - getMethods
-- getMethods
 - getProducts
 - getCheapest
 - getCostliest
