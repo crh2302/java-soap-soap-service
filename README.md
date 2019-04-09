@@ -7,4 +7,4 @@ The service deals with soap prices and has a handful of methods.
 - getCheapest
 - getCostliest
 
-Credit for the design of this homework goes to Dean Gankop: https://www.linkedin.com/in/ganskop/
+Credit for the design of this homework goes to the professor Dean Gankop: https://www.linkedin.com/in/ganskop/
